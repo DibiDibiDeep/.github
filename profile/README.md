@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=DibiDibiDeep&fontSize=90&fontColor=333333)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=디비디비딥&fontSize=90&fontColor=333333)
 
 
   <!-- Title Typing Effect -->
