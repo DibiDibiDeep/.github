@@ -25,23 +25,23 @@ jobs:
       - name: Build and push service-a
         uses: docker/build-push-action@v4
         with:
-          context: ./smileage-inferensing-model
+          context: ./smileage-inferensing-serving
           push: true
-          tags: eunseongjo/smileage-inferensing-model:latest
+          tags: eunseongjo/smileage-inferensing-serving:latest
 
       - name: Build and push service-b
         uses: docker/build-push-action@v4
         with:
-          context: ./smileage-front
+          context: ./smileage-frontend
           push: true
-          tags: eunseongjo/smileage-front:latest
+          tags: eunseongjo/smileage-frontend:latest
 
       - name: Build and push service-c
         uses: docker/build-push-action@v4
         with:
-          context: ./smileage-db
+          context: ./smileage-DB
           push: true
-          tags: eunseongjo/smileage-db:latest
+          tags: eunseongjo/smileage-DB:latest
 
       - name: Deploy with Docker Compose
         run: docker-compose up -d
