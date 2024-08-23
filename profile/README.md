@@ -13,17 +13,19 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center"><strong>P.M/백엔드</strong></td>
-      <td align="center"><strong>백엔드</strong></td>
-      <td align="center"><strong>백엔드</strong></td>
-      <td align="center"><strong>프론트엔드</strong></td>
-      <td align="center"><strong>프론트엔드</strong></td>
+      <td align="center"><strong>P.M/Front-end</strong></td>
+      <td align="center"><strong>AI Modeling</strong></td>
+      <td align="center"><strong>AI Modeling</strong></td>
+      <td align="center"><strong>Front-end</strong></td>
+      <td align="center"><strong>Back-end</strong></td>
+      <td align="center"><strong>Back-end</strong></td>
     </tr>
     <tr colspan="2">
       <td align="center">윤수빈</td>
       <td align="center">옥창우</td>
-      <td align="center">조은성</td>
+      <td align="center">김인수</td>
       <td align="center">최은아</td>
+      <td align="center">조은성</td>
       <td align="center">정현수</td>
     </tr>
   </table>
