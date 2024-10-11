@@ -9,7 +9,11 @@
 <div align="center">  
   <h4>"DibiDbiDeep"</h4>
 </div>
-
+<div>
+  <a href="https://github.com/DibiDibiDeep/final-project/wiki">DIBIDIBIDEEP-Wiki</a>
+</div>
+<br>
+<br>
 <div align="center">
   <table>
     <tr>
@@ -30,5 +34,4 @@
     </tr>
   </table>
 </div>
-[협업 내용] (https://github.com/DibiDibiDeep/final-project/wiki/%ED%98%91%EC%97%85-%EB%82%B4%EC%9A%A9)
 
